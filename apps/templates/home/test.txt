@@ -1,0 +1,5 @@
+curl --request POST \
+     --url https://apis.elai.io/api/v1/videos/render/6282089e661f88f4779b815f \
+     --header 'Accept: application/json' \
+     --header 'Authorization: Bearer 1sdZRBseHgfTVC14lIBAdRnWBQ1ojog9' \
+     --header 'Content-Type: application/json'
