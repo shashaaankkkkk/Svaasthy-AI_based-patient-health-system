@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
+Copyright (c) 2019 - present ![shashank]@Shashank-shekharrr
 
 <br />
 
