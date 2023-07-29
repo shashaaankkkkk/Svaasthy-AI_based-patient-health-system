@@ -71,7 +71,7 @@ The system comprises of three main components: IoT devices, a cloud-based server
 
 ## Authors
 
-- [@Shashank-shekharrr](https://www.github.com/shashank-shekharrr)
+- [@Shashank-shekharr](https://www.github.com/shashank-shekharr)
 
 
 ## Deployment
