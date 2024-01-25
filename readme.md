@@ -71,7 +71,7 @@ The system comprises of three main components: IoT devices, a cloud-based server
 
 ## Authors
 
-- [@Shashank-shekharr](https://www.github.com/shashank-shekharr)
+- [@Shashaaankkkkkk](https://www.github.com/shashaaankkkkk)
 
 
 ## Deployment
@@ -89,7 +89,7 @@ To deploy this project run
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-shekhar-93263b283/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashaaankkkkk)
 
 
 
