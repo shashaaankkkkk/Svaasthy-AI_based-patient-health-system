@@ -35,7 +35,8 @@ The system comprises of three main components: IoT devices, a cloud-based server
 * "Healthcare data analytics and artificial intelligence: A survey" by V. Tripathi et al., Proceedings of the International Conference on Computing and Communications Technologies, 2018.
 
 
-
+# You can try this on 
+* ![Link][Svaasthy.shashaaankkkkk.me]
 
 
 
