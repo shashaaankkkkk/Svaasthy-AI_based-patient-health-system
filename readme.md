@@ -37,6 +37,8 @@ The system comprises of three main components: IoT devices, a cloud-based server
 
 # You can try this on 
 https://Svaasthy.shashaaankkkkk.me
+username - test
+password - 1
 
 
 
