@@ -36,7 +36,7 @@ The system comprises of three main components: IoT devices, a cloud-based server
 
 
 # You can try this on 
-* ![Link][Svaasthy.shashaaankkkkk.me]
+* !(Link)[Svaasthy.shashaaankkkkk.me]
 
 
 
